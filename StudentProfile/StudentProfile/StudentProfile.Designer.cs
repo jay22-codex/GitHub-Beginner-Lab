@@ -35,19 +35,19 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(48, 97);
+            this.label1.Location = new System.Drawing.Point(9, 94);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(593, 42);
+            this.label1.Size = new System.Drawing.Size(680, 42);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile - Bjay Hernandez";
+            this.label1.Text = "Student Profile - GitHub Beginner Lab";
             // 
-            // Form1
+            // StudentProfile
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(701, 244);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "StudentProfile";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
