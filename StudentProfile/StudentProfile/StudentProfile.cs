@@ -15,6 +15,8 @@ namespace StudentProfile
         public StudentProfile()
         {
             InitializeComponent();
+
+            
         }
     }
 }
